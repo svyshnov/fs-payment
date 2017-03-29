@@ -1,0 +1,14 @@
+{
+  "name": "insights/api",
+  "description": "Payment module for FS projects.",
+  "keywords": ["fs-payment"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Serhii Vyshnov"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  }
+}
