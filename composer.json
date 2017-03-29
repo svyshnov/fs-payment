@@ -1,5 +1,5 @@
 {
-  "name": "insights/api",
+  "name": "fs/payment",
   "description": "Payment module for FS projects.",
   "keywords": ["fs-payment"],
   "license": "BSD-3-Clause",
