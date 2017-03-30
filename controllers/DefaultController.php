@@ -40,4 +40,9 @@ class DefaultController extends Controller
     {
         var_dump('Updating');exit;
     }
+
+    public function actionDelete()
+    {
+        var_dump('Deleting');exit;
+    }
 }
