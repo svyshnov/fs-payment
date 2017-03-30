@@ -28,21 +28,25 @@ class DefaultController extends Controller
      */
     public function actionIndex()
     {
-        var_dump('Congratulate!');exit;
+        var_dump('Congratulate!');
+        exit;
     }
 
     public function actionCreate()
     {
-        var_dump('Creating');exit;
+        var_dump('Creating');
+        exit;
     }
 
     public function actionUpdate()
     {
-        var_dump('Updating');exit;
+        var_dump('Updating');
+        exit;
     }
 
     public function actionDelete()
     {
-        var_dump('Deleting');exit;
+        var_dump('Deleting');
+        exit;
     }
 }
