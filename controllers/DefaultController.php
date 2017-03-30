@@ -26,23 +26,23 @@ class DefaultController extends Controller
      /**
      * @return mixed
      */
-//    public function actionIndex()
-//    {
-//        var_dump('Congratulate!');exit;
-//    }
+    public function actionIndex()
+    {
+        var_dump('Congratulate!');exit;
+    }
 
-//    public function actionCreate()
-//    {
-//        var_dump('Creating');exit;
-//    }
+    public function actionCreate()
+    {
+        var_dump('Creating');exit;
+    }
 
-//    public function actionUpdate()
-//    {
-//        var_dump('Updating');exit;
-//    }
+    public function actionUpdate()
+    {
+        var_dump('Updating');exit;
+    }
 
-//    public function actionDelete()
-//    {
-//        var_dump('Deleting');exit;
-//    }
+    public function actionDelete()
+    {
+        var_dump('Deleting');exit;
+    }
 }
