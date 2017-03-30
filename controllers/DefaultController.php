@@ -36,10 +36,10 @@ class DefaultController extends Controller
 //        var_dump('Creating');exit;
 //    }
 
-    public function actionUpdate()
-    {
-        var_dump('Updating');exit;
-    }
+//    public function actionUpdate()
+//    {
+//        var_dump('Updating');exit;
+//    }
 
     public function actionDelete()
     {
