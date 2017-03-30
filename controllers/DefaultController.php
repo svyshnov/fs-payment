@@ -31,10 +31,10 @@ class DefaultController extends Controller
         var_dump('Congratulate!');exit;
     }
 
-    public function actionCreate()
-    {
-        var_dump('Creating');exit;
-    }
+//    public function actionCreate()
+//    {
+//        var_dump('Creating');exit;
+//    }
 
     public function actionUpdate()
     {
