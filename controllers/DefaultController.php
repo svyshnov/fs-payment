@@ -26,10 +26,10 @@ class DefaultController extends Controller
      /**
      * @return mixed
      */
-    public function actionIndex()
-    {
-        var_dump('Congratulate!');exit;
-    }
+//    public function actionIndex()
+//    {
+//        var_dump('Congratulate!');exit;
+//    }
 
 //    public function actionCreate()
 //    {
